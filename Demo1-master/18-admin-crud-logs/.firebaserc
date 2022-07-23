@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "proyecto-arquitectura-prueba",
+    "proyecto-arquitectura-prueba": "proyecto-arquitectura-prueba"
+  },
+  "targets": {},
+  "etags": {}
+}
